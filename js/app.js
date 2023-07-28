@@ -59,7 +59,7 @@ function finalizarJuego(){
     Swal.fire({
         title: '¡ Bien Echo !',
         html: `<b>Puntos: ${puntos}</b><br><br>
-        <p>El juego finalizo, si deseas volver a jugar cierra esta ventanda y <b>¡ Diviertete !</b></p>`,
+        <p>Tiempo finalizado, si deseas volver a jugar cierra esta ventanda y <b>¡ Diviertete !</b></p>`,
         icon: `success`,
       });
 
