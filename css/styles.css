@@ -1,5 +1,8 @@
 body{
-    background-color: #f3f3f3;
+    background-image: url(../img/fondo-topo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -29,7 +32,7 @@ body{
     height: 0;
     background-size: 100px;
     bottom: 13px;
-    left: 90px;
+    left: 35%;
     transition: all .5s;
 }
 
